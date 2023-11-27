@@ -25,11 +25,11 @@
 ["flares", ["F_40mm_white", "F_40mm_Red", "F_40mm_Yellow", "F_40mm_Green"]] call _fnc_saveToTemplate;
 
 ["vehicleLightSource", "Land_LampShabby_F"] call _fnc_saveToTemplate;
-["vehicleFuelDrum", ["FlexibleTank_01_forest_F", 2000]] call _fnc_saveToTemplate;
-["vehicleFuelTank", ["B_Slingload_01_Fuel_F", 10000]] call _fnc_saveToTemplate;
-["vehicleRepairStation", ["Land_RepairDepot_01_green_F", 10000]] call _fnc_saveToTemplate;
-["vehicleAmmoStation", ["Box_IND_AmmoVeh_F", 10000]] call _fnc_saveToTemplate;
-["vehicleHealthStation", ["Land_MedicalTent_01_MTP_closed_F", 75]] call _fnc_saveToTemplate;
+["vehicleFuelDrum", ["Land_CanisterFuel_F", 2000]] call _fnc_saveToTemplate;
+["vehicleFuelTank", ["Land_fuel_tank_small", 10000]] call _fnc_saveToTemplate;
+["vehicleRepairStation", ["Land_Mil_Repair_center_EP1", 10000]] call _fnc_saveToTemplate;
+["vehicleAmmoStation", ["CUP_hromada_beden_decorativniX", 10000]] call _fnc_saveToTemplate;
+["vehicleHealthStation", ["Land_Caravan_01_rust_F", 75]] call _fnc_saveToTemplate;
 
 private _medBox = ["Box_AAF_Equip_F", 5];
 if(A3A_hasACE) then {

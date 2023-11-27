@@ -108,9 +108,9 @@
     class IFA_Reb : IFA_Base
     {
         side = "Reb";
-        flagTexture = QPATHTOFOLDER(Templates\Templates\IFA\flag_poland_army_co.paa);
-        name = "IFA POL";
-        file = "IFA_Reb_POL";
+        flagTexture = QPATHTOFOLDER(Templates\Templates\IFA\flag_ukraine_insurgent_army_co.paa);
+        name = "IFA Ukrainian Insurgent Army";
+        file = "IFA_Reb_UPA";
     };
 
     class IFA_CIV : IFA_Base
