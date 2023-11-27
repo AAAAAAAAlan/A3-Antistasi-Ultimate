@@ -34566,7 +34566,7 @@ class Mission
 						skill=0.2;
 					};
 					id=3199;
-					type="Land_Cargo_Tower_V2_F";
+					type="Land_WW2_BET_RGB_667_Com_B";
 					atlOffset=3.8146973e-006;
 				};
 				class Item8
@@ -34788,7 +34788,7 @@ class Mission
 						skill=0.2;
 					};
 					id=3217;
-					type="Land_Cargo_Tower_V2_F";
+					type="Land_WW2_BET_RGB_667_Com_B";
 				};
 				class Item21
 				{
@@ -34890,7 +34890,7 @@ class Mission
 						skill=0.2;
 					};
 					id=3712;
-					type="Land_Cargo_Tower_V2_F";
+					type="Land_WW2_BET_RGB_667_Com_B";
 				};
 				class Item27
 				{
@@ -34907,7 +34907,7 @@ class Mission
 						skill=0.2;
 					};
 					id=3713;
-					type="Land_Cargo_Tower_V2_F";
+					type="Land_WW2_BET_RGB_667_Com_B";
 					atlOffset=4.5776367e-005;
 				};
 				class Item28
@@ -34925,7 +34925,7 @@ class Mission
 						skill=0.2;
 					};
 					id=3715;
-					type="Land_Cargo_Tower_V2_F";
+					type="Land_WW2_BET_RGB_667_Com_B";
 				};
 			};
 			id=3209;
@@ -53894,7 +53894,7 @@ class Mission
 			{
 			};
 			id=4203;
-			type="Land_Cargo_Tower_V2_F";
+			type="Land_WW2_BET_RGB_667_Com_B";
 			atlOffset=3.8146973e-006;
 		};
 		class Item77
@@ -53911,7 +53911,7 @@ class Mission
 			{
 			};
 			id=4204;
-			type="Land_Cargo_Tower_V2_F";
+			type="Land_WW2_BET_RGB_667_Com_B";
 		};
 		class Item78
 		{
@@ -53927,7 +53927,7 @@ class Mission
 			{
 			};
 			id=4205;
-			type="Land_Cargo_Tower_V2_F";
+			type="Land_WW2_BET_RGB_667_Com_B";
 			atlOffset=-1.9073486e-006;
 		};
 		class Item79
@@ -54909,7 +54909,7 @@ class Mission
 			{
 			};
 			id=4512;
-			type="Land_Cargo_HQ_V2_F";
+			type="Land_WW2_Dom_Pol2_Damage";
 			atlOffset=-1.9073486e-006;
 		};
 		class Item137
@@ -54926,7 +54926,7 @@ class Mission
 			{
 			};
 			id=4513;
-			type="Land_Cargo_HQ_V2_F";
+			type="Land_WW2_Dom_Pol2_Damage";
 		};
 		class Item138
 		{
@@ -55006,7 +55006,7 @@ class Mission
 			{
 			};
 			id=4553;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 		};
 		class Item143
 		{
@@ -55022,7 +55022,7 @@ class Mission
 			{
 			};
 			id=4554;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 		};
 		class Item144
 		{
@@ -55038,7 +55038,7 @@ class Mission
 			{
 			};
 			id=4555;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 		};
 		class Item145
 		{
@@ -55054,7 +55054,7 @@ class Mission
 			{
 			};
 			id=4556;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 		};
 		class Item146
 		{
@@ -56696,7 +56696,7 @@ class Mission
 							{
 							};
 							id=4694;
-							type="Land_Cargo20_grey_F";
+							type="Land_Shed_M02";
 							atlOffset=0.34034729;
 						};
 						class Item62
@@ -56813,7 +56813,7 @@ class Mission
 							{
 							};
 							id=4701;
-							type="Land_Cargo20_grey_F";
+							type="Land_Shed_M02";
 							atlOffset=-0.0010147095;
 						};
 						class Item69
@@ -64148,7 +64148,7 @@ class Mission
 			{
 			};
 			id=5241;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 		};
 		class Item185
 		{
@@ -64164,7 +64164,7 @@ class Mission
 			{
 			};
 			id=5242;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 		};
 		class Item186
 		{
@@ -64180,7 +64180,7 @@ class Mission
 			{
 			};
 			id=5243;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 		};
 		class Item187
 		{
@@ -64196,7 +64196,7 @@ class Mission
 			{
 			};
 			id=5244;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 			atlOffset=-0.079353333;
 		};
 		class Item188
@@ -64213,7 +64213,7 @@ class Mission
 			{
 			};
 			id=5249;
-			type="Land_Cargo_Tower_V2_F";
+			type="Land_WW2_BET_RGB_667_Com_B";
 		};
 		class Item189
 		{
@@ -64229,7 +64229,7 @@ class Mission
 			{
 			};
 			id=5250;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 		};
 		class Item190
 		{
@@ -64245,7 +64245,7 @@ class Mission
 			{
 			};
 			id=5251;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 		};
 		class Item191
 		{
@@ -64261,7 +64261,7 @@ class Mission
 			{
 			};
 			id=5294;
-			type="Land_Cargo_Tower_V2_F";
+			type="Land_WW2_BET_RGB_667_Com_B";
 		};
 		class Item192
 		{
@@ -64277,7 +64277,7 @@ class Mission
 			{
 			};
 			id=5295;
-			type="Land_Cargo_HQ_V2_F";
+			type="Land_WW2_Dom_Pol2_Damage";
 			atlOffset=0.028327942;
 		};
 		class Item193
@@ -64294,7 +64294,7 @@ class Mission
 			{
 			};
 			id=5296;
-			type="Land_Cargo_HQ_V2_F";
+			type="Land_WW2_Dom_Pol2_Damage";
 			atlOffset=0.028327942;
 		};
 		class Item194
@@ -64311,7 +64311,7 @@ class Mission
 			{
 			};
 			id=5298;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 		};
 		class Item195
 		{
@@ -64327,7 +64327,7 @@ class Mission
 			{
 			};
 			id=5299;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 		};
 		class Item196
 		{
@@ -64343,7 +64343,7 @@ class Mission
 			{
 			};
 			id=5307;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 		};
 		class Item197
 		{
@@ -64359,7 +64359,7 @@ class Mission
 			{
 			};
 			id=5316;
-			type="Land_Cargo_HQ_V2_F";
+			type="Land_WW2_Dom_Pol2_Damage";
 		};
 		class Item198
 		{
@@ -65605,7 +65605,7 @@ class Mission
 			{
 			};
 			id=3409;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 		};
 		class Item267
 		{
@@ -65621,7 +65621,7 @@ class Mission
 			{
 			};
 			id=5799;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 			atlOffset=7.6293945e-006;
 		};
 		class Item268
@@ -65638,7 +65638,7 @@ class Mission
 			{
 			};
 			id=5801;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 		};
 		class Item269
 		{
@@ -65654,7 +65654,7 @@ class Mission
 			{
 			};
 			id=5802;
-			type="Land_Cargo_HQ_V2_F";
+			type="Land_WW2_Dom_Pol2_Damage";
 		};
 		class Item270
 		{
@@ -65670,7 +65670,7 @@ class Mission
 			{
 			};
 			id=6335;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 			atlOffset=3.8146973e-006;
 		};
 		class Item271
@@ -65687,7 +65687,7 @@ class Mission
 			{
 			};
 			id=6336;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 			atlOffset=3.8146973e-006;
 		};
 		class Item272
@@ -65704,7 +65704,7 @@ class Mission
 			{
 			};
 			id=6337;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 			atlOffset=7.6293945e-006;
 		};
 		class Item273
@@ -71442,7 +71442,7 @@ class Mission
 			{
 			};
 			id=6719;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 		};
 		class Item616
 		{
@@ -71458,7 +71458,7 @@ class Mission
 			{
 			};
 			id=6720;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 		};
 		class Item617
 		{
@@ -71474,7 +71474,7 @@ class Mission
 			{
 			};
 			id=6721;
-			type="Land_Cargo_Patrol_V2_F";
+			type="Land_WW2_Posed";
 		};
 		class Item618
 		{
@@ -71522,7 +71522,7 @@ class Mission
 			{
 			};
 			id=6754;
-			type="Land_Cargo_Tower_V2_F";
+			type="Land_WW2_BET_RGB_667_Com_B";
 		};
 		class Item621
 		{
